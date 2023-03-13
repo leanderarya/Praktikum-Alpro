@@ -35,7 +35,7 @@ int main()
         }
     }
     else {
-        printf("Masukan Salah!");
+        printf("Inputan tidak benar");
     }
     return 0;
 }
